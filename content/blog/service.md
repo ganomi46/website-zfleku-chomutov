@@ -7,13 +7,6 @@ image: images/objednavka.jpg
 
 ---
 
-## Plesy
-
-
-## Svatby
-
-
-## OSA Formular
-Musis vyplnit...
+Brzy bude doplněno.
 
 
