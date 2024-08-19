@@ -1,0 +1,47 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Zfleku!'
+subtitle = 'test'
+theme = 'quint'
+
+
+paginate = 4                        # Number of posts to show on a list page
+summaryLength = 2                 # Number of characters in your card summaries
+
+[params]
+css = ["css/custom.css"]            # Your custom CSS overrides, stored in yoursite/static/
+numImages = 10                      # Number of random images to choose from for banners (in themes/quint/static/images)
+# contact = "j@ganomi.com"
+
+[[menus.main]]
+name = 'Domů'
+url = 'https://www.zfleku-chomutov.cz'
+
+
+
+[[params.social]]
+    url = "https://www.youtube.com/@zflekuchomutov9582/featured"
+    icon = "/social/youtube.svg"
+    name = "YouTube"
+
+[[params.social]]
+    url = "https://www.facebook.com/zflekuchomutov"
+    icon = "/social/facebook.svg"
+    name = "Facebook"
+
+[[params.social]]
+    url = "https://wa.me/420777289323"
+    icon = "/social/whatsapp.svg"
+    name = "WhatsApp"
+
+[[params.social]]
+    url = "mailto:zfleku@gmail.com"
+    icon = "/social/email.svg"
+    name = "Email"
+
+
+
+# [[params.social]]
+#     url = "https://instagram.com"
+#     icon = "/social/instagram.svg"
+#         name = "Instagram"

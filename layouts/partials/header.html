@@ -1,0 +1,23 @@
+<header>
+    <!-- <div class="logo h-card">
+        <a class="u-url" href="{{ .Site.Home.Permalink }}">
+            <img alt="Site Logo" class="u-photo" src="/images/logo.png"/>
+        </a>
+    </div> -->
+    <!-- <div class="social-media">
+        {{ range site.Params.social}}
+            <a href="{{ .url }}"><img alt="{{ .name }}" src="{{ .icon }}"/></a>
+        {{ end }}
+    </div> -->
+    <div></div>
+    <nav>
+        <ul>
+            {{- range site.Menus.main }}
+                <li>
+                    <a href="{{ .URL }}">{{ .Name }}</a>
+                </li>
+            {{- end }}
+        </ul>
+    </nav>
+    <div></div>
+</header>
