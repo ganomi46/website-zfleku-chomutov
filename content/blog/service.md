@@ -30,4 +30,3 @@ Autorské poplatky hradí pořadatel akce.
 Formulář pro OSA (Ochranný svaz autorský) je k dispozici na strance OSA -  [ŽIVÉ VEŘEJNÉ HUDEBNÍ PRODUKCE – ON-LINE ŽÁDOST](https://forms.osa.cz/forms/LicencniSmlouvaZiveVerejneHudebniProdukce.aspx).
 
 Repertoáru skupiny, který se musí přiložit k žádosti (není nutné vyplňovat seznam skladeb na tiskopise), najdede na strance [Repertoár](/blog/repertoar/).
-
