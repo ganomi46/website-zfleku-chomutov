@@ -7,9 +7,6 @@ image: images/objednavka.jpg
 
 ---
 
-Brzy bude doplněno.
-
-
 ## Cenik
 
 | Nazev                                          | &nbsp;&nbsp;&nbsp; | Cena                |
