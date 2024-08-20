@@ -7,6 +7,15 @@ image: images/objednavka.jpg
 
 ---
 
+Skupina je schopna produkovat interiérová i exteriérová vystoupení různé délky a v různou denní dobu dle potřeb pořádajícího: maturitní i jiné plesy, svatby (obřady i zábava), soukromé oslavy, firemní akce, adventní koncerty, poslechové večery, dětské dny nebo také vystoupení na akcích typu poutě a festivaly.
+
+Kapela má možnost zajistit celou akci po stránce hudební produkce, mluveného slova, ozvučení, osvětlení, zastřešeného pódia, videozáznamů z akce
+(v HD kvalitě - upravené dle požadavků pořádajícího a za smluvní cenu dle domluvy).
+
+Skupina hraje české, slovenské i další, cizojazyčné hity v akustickém provedení.
+
+Na přání objednatele lze (v dostatečném předstihu) za smluvní cenu dohodnout i speciální repertoár a případné vizuální doplňky (plakáty apod.).
+
 ## Cenik
 
 | Nazev                                          | &nbsp;&nbsp;&nbsp; | Cena                |
