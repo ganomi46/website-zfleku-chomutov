@@ -11,8 +11,6 @@ image: images/profily.jpg
 ![Resize](/images/martina-vokalkova.jpg?width=200px)
 - Rok narození 1978
 - Zpěv, kytara, piano
-- Povolání: učitelka na základní škole
-- Bytem: Chomutov
 
 &nbsp;
 
@@ -23,8 +21,6 @@ image: images/profily.jpg
 ![Resize](/images/petr-vokalek.jpg?width=200px)
 - Rok narození 1971
 - Zpěv, kytara, ukulele
-- Povolání: stavební technik
-- Bytem: Chomutov
 
 &nbsp;
 
@@ -34,8 +30,6 @@ image: images/profily.jpg
 ![Resize](/images/josef-plavajka.jpg?width=200px)
 - Rok narození 1968
 - Zpěv, housle
-- Povolání: ředitel vstřikovacího lisu
-- Bytem: Jirkov
 
 &nbsp;
 
@@ -45,7 +39,7 @@ image: images/profily.jpg
 ![Resize](/images/marek-sklenar.jpg?width=200px)
 - Rok narození 1972
 - Baskytara
-- Bytem: Most
+
 
 &nbsp;
 
@@ -55,5 +49,3 @@ image: images/profily.jpg
 ![Resize](/images/jirka-kluch.jpg?width=200px)
 - Rok narození 1959
 - Bicí, cajon a perkuse
-- Povolání: majitel a vedoucí hospody /Klub K.O. Jirkov/    
-- Bytem: Jirkov  

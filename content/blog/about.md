@@ -18,3 +18,4 @@ Historie skupiny **Zfleku** se začala psát v roce 2013, kdy se k již existuj�
 
 **2016**: Odchod Marcela Tvardíka, nástup Marka Sklenáře.
 
+
