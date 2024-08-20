@@ -3,7 +3,7 @@ title: "O nás"
 date: "2024-05-05T18:40:13.745Z"
 draft: false
 description: "Vítáme Vás na našich stránkách."
-image: images/kapela.jpg
+image: /images/kapela.jpg
 ---
 
 Skupina se objevila na scéně v roce 2013. Prvopočátkem jejího vzniku byl příchod zpěvačky a kytaristky Martiny Kuželové přezdívané Kuželka ke dvěma již delší dobu spolu hrajícím muzikantům Vokymu (Petr Vokálek - zpěv, kytara) a Josephovi (Josef Plavajka - zpěv, housle), kteří spolu vystupovali už dříve v několika různých udebních uskupeních. Trio se už od svého počátku věnovalo akustickým úpravám světových i českých popových a rockových hitů.

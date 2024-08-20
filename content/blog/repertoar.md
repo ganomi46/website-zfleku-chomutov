@@ -2,7 +2,7 @@
 title: "Repertoár"
 date: 2024-05-03T14:03:22-05:00
 draft: false
-image: images/repertoar.jpg
+image: /images/repertoar.jpg
 description: "Repertoár populárních písní."
 ---
 

@@ -3,7 +3,7 @@ title: "Profily členů"
 date: "2024-05-05T11:29:04.049Z"
 draft: false
 description: "Profily členů kapely Zfleku"
-image: images/profily.jpg
+image: /images/profily.jpg
 
 ---
 **Martina Vokálková - "Kuželka"**
